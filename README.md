@@ -36,6 +36,7 @@
 * 技术选型：前端Cocos creator,海报合成服务由Spring boot实现
 * 负责内容：独立完成前端项目和海报合成服务
 * 线上地址：[H5线上地址](http://ciie.essilorchina.com/) [海报合成接口](https://yjwlx.jerrysir.com/poster/g?name=Jerry&type=4)
+
 原型UI | 原型UI
  -------------|-------------
 ![yjwlx_00](Source/yjwlx_00.jpg) | ![yjwlx_01](Source/yjwlx_01.jpg)
@@ -91,6 +92,5 @@
 * 技术选型：前端Taro,后端服务Go+Beego(原Pomelo)
 * 负责内容：独立完成前端及后端服务
 * 线上地址：
- -------------
 ![qc](Source/an_qc.jpg)
 - - - -
